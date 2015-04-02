@@ -1,10 +1,10 @@
-p{
+p {
     font-weight: 400;
 }
 .orange{
     color: RGB(212,	36,	0);	
 }
-.navbar{
+.navbar {
     position: absolute;
     z-index: 10000;
     background-color: transparent;
@@ -28,7 +28,7 @@ p{
     color: RGB(146,	166, 166);
 }
 
-#bg-image{
+#bg-image {
     margin: 15px 0; 
     background-image: url(img/sky.jpg);
     height:100vh;
@@ -43,6 +43,6 @@ p{
     width: 100vw;
 }
 
-#bg-text{
+#bg-text {
     background-color: rgba(134,	141, 117, 0.3); 
 }
